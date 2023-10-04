@@ -1,0 +1,12 @@
+[{
+	"resource": "/c:/Users/shail/OneDrive/Desktop/CPP/Basic",
+	"owner": "C/C++: IntelliSense",
+	"code": "1696",
+	"severity": 8,
+	"message": "#include errors detected. Please update your includePath. Squiggles are disabled for this translation unit (C:\\Users\\shail\\OneDrive\\Desktop\\CPP\\Basic).",
+	"source": "C/C++",
+	"startLineNumber": 12,
+	"startColumn": 1,
+	"endLineNumber": 12,
+	"endColumn": 20
+}]
